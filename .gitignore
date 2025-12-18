@@ -1,2 +1,5 @@
 venv
 *.csv
+.csv
+idata.pkl
+__pycache__
