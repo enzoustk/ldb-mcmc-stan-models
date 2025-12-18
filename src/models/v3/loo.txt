@@ -1,0 +1,12 @@
+Computed from 8000 posterior samples and 3096 observations log-likelihood matrix.
+
+         Estimate       SE
+elpd_loo -36683.54    89.71
+p_loo      443.79        -
+------
+
+Pareto k diagnostic values:
+                         Count   Pct.
+(-Inf, 0.70]   (good)     3096  100.0%
+   (0.70, 1]   (bad)         0    0.0%
+   (1, Inf)   (very bad)    0    0.0%
